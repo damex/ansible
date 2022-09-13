@@ -9,4 +9,5 @@ python_version = "3.9"
 [dev-packages]
 
 [packages]
+ansible-core = "==2.13.4"
 yamllint = "==1.28.0"
