@@ -1,0 +1,8 @@
+---
+homelab:
+  children:
+    homelab_digitalocean:
+
+homelab_digitalocean:
+  children:
+    homelab_ams3:
