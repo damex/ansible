@@ -3,11 +3,11 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
-[requires]
-python_version = "3.9"
-
 [dev-packages]
 
 [packages]
-ansible-core = "==2.13.4"
-yamllint = "==1.28.0"
+ansible-core = "==2.16.5"
+ansible-lint = "==24.2.2"
+
+[requires]
+python_version = "3.11"
