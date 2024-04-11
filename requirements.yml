@@ -1,6 +1,6 @@
 ---
 collections:
- - name: damex.digitalocean
-   version: 0.0.13
+  - name: damex.digitalocean
+    version: 0.0.13
 
 roles: []
